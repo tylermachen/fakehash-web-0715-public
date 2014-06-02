@@ -1,0 +1,6 @@
+class FakeHashWrapper
+
+
+
+
+end
