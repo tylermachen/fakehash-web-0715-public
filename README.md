@@ -1,8 +1,4 @@
----
-tags: hashes, iteration, object orientation, bonus
-languages: ruby
-resources: 1
----
+
 
 # Fake Hashes
 
